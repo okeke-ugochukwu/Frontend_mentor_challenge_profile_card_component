@@ -6,6 +6,8 @@
 }
 html {
     scroll-behavior: smooth;
+     height: 100%;
+    width: 100%;
 }
 body {
     background: hsl(185, 75%, 39%);
@@ -13,6 +15,8 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    height: 100%;
+    width: 100%;
     overflow: hidden;
 
 }
